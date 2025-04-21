@@ -1,2 +1,2 @@
 # HelixObby
-MyfinalprojectforCS50.
+My final project for CS50.
